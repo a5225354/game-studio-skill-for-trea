@@ -11,7 +11,7 @@ CONTRIBUTING.md
 .DS_Store
 Thumbs.db
 Desktop.ini
-review/*
+
 
 # === Claude Code Local ===
 .claude/settings.local.json
