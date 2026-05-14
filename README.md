@@ -280,7 +280,7 @@ game-studio/
 
 ## 致谢
 
-本 Skill 基于 [pixel-cellar/Claude-Code-Game-Studios](https://github.com/pixel-cellar/Claude-Code-Game-Studios) 项目改造。原始项目采用 MIT 许可证，本项目同样遵循 MIT 许可证。
+本 Skill 基于 [pixel-cellar/Claude-Code-Game-Studios](https://github.com/pixel-cellar/Claude-Code-Game-Studios) 以及 [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) 项目改造。原始项目采用 MIT 许可证，本项目同样遵循 MIT 许可证。
 
 ## 许可证
 
