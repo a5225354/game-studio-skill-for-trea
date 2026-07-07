@@ -5,6 +5,9 @@
 
 ---
 
+# 停更
+鉴于Trea的逐步完善，现在陆续开始支持claude的skills以及钩子，该仓库的作用已经不大，因此不会再更新任何内容。
+
 ## 这是什么
 
 **Game Studio Skill for Trae** 是从 [Claude Code Game Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) 改造而来的 Trae IDE 技能（Skill）。它通过结构化的角色系统和工作流，让你在 Trae 中获得专业游戏工作室级别的 AI 协助。
